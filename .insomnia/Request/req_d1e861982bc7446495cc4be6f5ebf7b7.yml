@@ -1,0 +1,21 @@
+_id: req_d1e861982bc7446495cc4be6f5ebf7b7
+type: Request
+parentId: wrk_7fd1b57620d24c16b6cfee59180e5d1b
+modified: 1689565021281
+created: 1689565019665
+url: https://github.com/hoangbdUET/mkdc-api
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1689565019665
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
